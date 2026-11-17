@@ -1,0 +1,261 @@
+{
+  "title": "The Road to Great Falls",
+  "subtitle": "Motorcycle Touring Rally · June 11–27, 2027",
+  "updated": "2026-11-17",
+  "version": "2.0",
+  "summary": "17-day, approximately 4,500–4,900-mile round-trip group touring plan. Six northbound days, rally June 17–20, seven southbound days. Distances are estimates, not GPS-verified.",
+  "rally": {
+    "start": "2027-06-17",
+    "end": "2027-06-20",
+    "location": "Great Falls, Montana",
+    "description": "Four days for the rally, fellow riders, activities and optional local rides. An optional early Sunday departure may allow additional Moab time."
+  },
+  "guidelines": [
+    "Informal group travel, not an officially sanctioned club ride. Each rider makes their own riding and safety decisions.",
+    "Designate a lead and sweeper; agree on fuel stops, regroup points and departure times each morning.",
+    "Use staggered formation where appropriate on open roads and single file with greater spacing on mountain curves.",
+    "Check high-elevation road conditions close to departure; Yellowstone travel may be slow.",
+    "Plan for late-June heat in New Mexico and Texas; never force a mileage target in unsafe conditions.",
+    "Navigation tracks and hotel stops will be confirmed later. Keep emergency contact and medical information private, outside this public site."
+  ],
+  "days": [
+    {
+      "id": "day-01",
+      "date": "2027-06-11",
+      "leg": "Northbound",
+      "title": "The Woodlands → Amarillo, TX",
+      "miles": "590–620",
+      "description": "A purposeful first travel day via Fort Worth, Wichita Falls and US-287. Start early, make regular fuel and hydration stops, and settle in for the first overnight.",
+      "stops": [
+        "The Woodlands, TX",
+        "Fort Worth, TX",
+        "Wichita Falls, TX",
+        "Amarillo, TX"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=The+Woodlands%2C+TX&destination=Amarillo%2C+TX&waypoints=Fort+Worth%2C+TX%7CWichita+Falls%2C+TX&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-02",
+      "date": "2027-06-12",
+      "leg": "Northbound",
+      "title": "Amarillo → Colorado Springs, CO",
+      "miles": "350–390",
+      "description": "Ride north via Raton Pass, Pueblo and the Front Range. A more relaxed transit day that positions us for the scenic Colorado roads.",
+      "stops": [
+        "Amarillo, TX",
+        "Raton, NM",
+        "Pueblo, CO",
+        "Colorado Springs, CO"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Amarillo%2C+TX&destination=Colorado+Springs%2C+CO&waypoints=Raton%2C+NM%7CPueblo%2C+CO&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-03",
+      "date": "2027-06-13",
+      "leg": "Northbound",
+      "title": "Colorado Springs → Poudre Canyon → Cameron Pass → Walden → Laramie",
+      "miles": "330–370",
+      "description": "Follow CO-14 along the Cache la Poudre River, climb Cameron Pass, then ride through North Park toward Wyoming.",
+      "stops": [
+        "Colorado Springs, CO",
+        "Fort Collins, CO",
+        "Cameron Pass, CO",
+        "Walden, CO",
+        "Laramie, WY"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Colorado+Springs%2C+CO&destination=Laramie%2C+WY&waypoints=Fort+Collins%2C+CO%7CCameron+Pass%2C+CO%7CWalden%2C+CO&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-04",
+      "date": "2027-06-14",
+      "leg": "Northbound",
+      "title": "Laramie → Snowy Range → Saratoga → Rawlins → Wind River Canyon → Thermopolis",
+      "miles": "330–370",
+      "description": "Cross WY-130 through the Snowy Range, then continue north to Shoshoni and US-20 through Wind River Canyon. Allow time for alpine viewpoints and canyon photos.",
+      "stops": [
+        "Laramie, WY",
+        "Saratoga, WY",
+        "Rawlins, WY",
+        "Shoshoni, WY",
+        "Thermopolis, WY"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Laramie%2C+WY&destination=Thermopolis%2C+WY&waypoints=Saratoga%2C+WY%7CRawlins%2C+WY%7CShoshoni%2C+WY&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-05",
+      "date": "2027-06-15",
+      "leg": "Northbound",
+      "title": "Thermopolis → Cody → Chief Joseph Byway → Cooke City → Beartooth Highway → Red Lodge",
+      "miles": "230–270",
+      "description": "WY-296 and US-212 deliver mountain curves, sweeping vistas and the Beartooth summit, weather permitting.",
+      "stops": [
+        "Thermopolis, WY",
+        "Cody, WY",
+        "Cooke City, MT",
+        "Beartooth Pass, WY",
+        "Red Lodge, MT"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Thermopolis%2C+WY&destination=Red+Lodge%2C+MT&waypoints=Cody%2C+WY%7CCooke+City%2C+MT%7CBeartooth+Pass%2C+WY&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-06",
+      "date": "2027-06-16",
+      "leg": "Northbound",
+      "title": "Red Lodge → White Sulphur Springs → Kings Hill Scenic Byway → Great Falls",
+      "miles": "280–320",
+      "description": "Ride north toward the Little Belt Mountains and US-89 over Kings Hill. Arrive a day before the rally.",
+      "stops": [
+        "Red Lodge, MT",
+        "White Sulphur Springs, MT",
+        "Kings Hill Pass, MT",
+        "Great Falls, MT"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Red+Lodge%2C+MT&destination=Great+Falls%2C+MT&waypoints=White+Sulphur+Springs%2C+MT%7CKings+Hill+Pass%2C+MT&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-07",
+      "date": "2027-06-21",
+      "leg": "Southbound",
+      "title": "Great Falls → Livingston → Paradise Valley → Gardiner",
+      "miles": "230–260",
+      "description": "Head south toward Yellowstone via scenic Paradise Valley. Overnight near the park’s north entrance for an early start.",
+      "stops": [
+        "Great Falls, MT",
+        "Livingston, MT",
+        "Gardiner, MT"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Great+Falls%2C+MT&destination=Gardiner%2C+MT&waypoints=Livingston%2C+MT&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-08",
+      "date": "2027-06-22",
+      "leg": "Southbound",
+      "title": "Gardiner → Yellowstone National Park → Grand Teton → Jackson",
+      "miles": "170–230",
+      "description": "A national-park day for wildlife, geothermal features and the Tetons. Expect slow speeds, traffic and frequent stops.",
+      "stops": [
+        "Gardiner, MT",
+        "Old Faithful, Yellowstone National Park, WY",
+        "Grand Teton National Park, WY",
+        "Jackson, WY"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Gardiner%2C+MT&destination=Jackson%2C+WY&waypoints=Old+Faithful%2C+Yellowstone+National+Park%2C+WY%7CGrand+Teton+National+Park%2C+WY&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-09",
+      "date": "2027-06-23",
+      "leg": "Southbound",
+      "title": "Jackson → Pinedale → Rock Springs → Flaming Gorge → Vernal",
+      "miles": "280–330",
+      "description": "Travel through western Wyoming and descend toward Utah on US-191, enjoying the Flaming Gorge landscape without a major detour.",
+      "stops": [
+        "Jackson, WY",
+        "Pinedale, WY",
+        "Rock Springs, WY",
+        "Flaming Gorge, UT",
+        "Vernal, UT"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Jackson%2C+WY&destination=Vernal%2C+UT&waypoints=Pinedale%2C+WY%7CRock+Springs%2C+WY%7CFlaming+Gorge%2C+UT&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-10",
+      "date": "2027-06-24",
+      "leg": "Southbound",
+      "title": "Vernal → Moab → Grand Junction → Montrose",
+      "miles": "380–430",
+      "description": "A taste of Moab’s red-rock country, then continue toward western Colorado. Extensive park visits are not included.",
+      "stops": [
+        "Vernal, UT",
+        "Moab, UT",
+        "Grand Junction, CO",
+        "Montrose, CO"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Vernal%2C+UT&destination=Montrose%2C+CO&waypoints=Moab%2C+UT%7CGrand+Junction%2C+CO&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-11",
+      "date": "2027-06-25",
+      "leg": "Southbound",
+      "title": "Montrose → Ouray → Silverton → Durango → Pagosa Springs → Santa Fe",
+      "miles": "380–430",
+      "description": "Ride US-550’s Million Dollar Highway between Ouray and Silverton. Continue through Durango and Pagosa Springs before Santa Fe.",
+      "stops": [
+        "Montrose, CO",
+        "Ouray, CO",
+        "Silverton, CO",
+        "Durango, CO",
+        "Pagosa Springs, CO",
+        "Santa Fe, NM"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Montrose%2C+CO&destination=Santa+Fe%2C+NM&waypoints=Ouray%2C+CO%7CSilverton%2C+CO%7CDurango%2C+CO%7CPagosa+Springs%2C+CO&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-12",
+      "date": "2027-06-26",
+      "leg": "Southbound",
+      "title": "Santa Fe → Santa Rosa → Clovis → Lubbock → Abilene",
+      "miles": "500–560",
+      "description": "Longest southbound transit day. Leave early to reduce afternoon heat exposure; plan breaks and adjust the overnight if needed.",
+      "stops": [
+        "Santa Fe, NM",
+        "Santa Rosa, NM",
+        "Clovis, NM",
+        "Lubbock, TX",
+        "Abilene, TX"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Santa+Fe%2C+NM&destination=Abilene%2C+TX&waypoints=Santa+Rosa%2C+NM%7CClovis%2C+NM%7CLubbock%2C+TX&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    },
+    {
+      "id": "day-13",
+      "date": "2027-06-27",
+      "leg": "Southbound",
+      "title": "Abilene → The Woodlands",
+      "miles": "350–390",
+      "description": "Final ride home. Start early to avoid the hottest part of the day; finish at a comfortable pace.",
+      "stops": [
+        "Abilene, TX",
+        "The Woodlands, TX"
+      ],
+      "mapUrl": "https://www.google.com/maps/dir/?api=1&origin=Abilene%2C+TX&destination=The+Woodlands%2C+TX&waypoints=&travelmode=driving",
+      "gpx": "",
+      "notes": "",
+      "status": "proposed"
+    }
+  ]
+}
